@@ -20,18 +20,18 @@ A command-line application to create, manage, and take quizzes. Users can add qu
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/quiz-generator.git
+   https://github.com/Anjali-2613/Techplement.git
    cd quiz-generator
    ```
 
 2. **Compile the Code:**
    ```bash
-   javac QuizApp.java
+   javac QuizGenerator.java
    ```
 
 3. **Run the Application:**
    ```bash
-   java QuizApp
+   java QuizGenerator
    ```
 
 ## Menu Options
